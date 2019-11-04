@@ -1,4 +1,4 @@
-console.log('Client side loaded')
+//console.log('Client side loaded')
 
 // fetch('http://puzzle.mead.io/puzzle').then((response)=>{
 
